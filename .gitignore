@@ -1,0 +1,10 @@
+*.o
+*.a
+*.dylib
+Makefile
+tc*mgr
+tc*test
+config.*
+tcawmgr.cgi
+tcucodec
+tokyocabinet.pc
